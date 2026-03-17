@@ -22,14 +22,3 @@ The core of this project is the **Minimax** algorithm, a recursive strategy used
     * **-1**: Player O wins.
     * **0**: The game is a tie.
 
-[Image of Minimax algorithm tree for Tic-Tac-Toe]
-
----
-
-##  How to Play
-1.  **Ensure Python is installed**: You will need Python 3.x.
-2.  **Run the script**:
-    ```bash
-    python tictactoe.py
-    ```
-3.  **Enter your move**: When prompted `Enter your move (row col):`, type the row
